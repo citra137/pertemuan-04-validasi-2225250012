@@ -19,3 +19,4 @@ else:
 
 
 print(f"Nilai {nilai:.2f} memperoleh predikat {predikat}.")
+# Program selesai dijalankan
