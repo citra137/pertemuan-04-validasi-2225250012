@@ -43,3 +43,6 @@ py praktik/validasi_klasifikasi_nilai.py
 Masukan tidak valid yang sebelumnya dapat menyebabkan error adalah input berupa teks.
 
 Solusi yang digunakan adalah menggunakan try-except ValueError untuk menangani kesalahan konversi tipe data.
+## Repository
+
+Tugas pertemuan 04 selesai dibuat menggunakan Python dan GitHub.
